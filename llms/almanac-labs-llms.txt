@@ -1,0 +1,32 @@
+# Almanac Labs
+
+> Almanac Labs, Inc. builds Almanac, an enterprise wiki and async collaboration platform that consolidates a team's scattered documents into a single organized source of truth — combining fast editing, wikis, version control, approvals, and workflow/task management. The Almanac API (V1, private beta) provides programmatic access to a workspace's files, folders, users, groups, document properties, access controls, and metadata.
+
+## APIs
+
+- [Almanac API (developer docs)](https://help.almanac.io/for/developers): Almanac API V1, currently in private beta. Import and move files/folders; view users and groups; read and update document properties; manage document access; access and update document/folder metadata. Base URL https://api.almanac.io. Access granted on request.
+- [Introducing the Almanac API (changelog)](https://get.almanac.io/changelog/introducing-the-almanac-api): Announcement of the Almanac API V1 private beta and its capabilities.
+
+## Product
+
+- [Almanac](https://get.almanac.io/): The fastest wiki and workflow tool ever built — consolidate docs into a beautiful, organized single source of truth.
+- [Features](https://get.almanac.io/features): Wikis, version control, approvals, and task management to replace Confluence, Notion, and Asana.
+- [Integrations](https://almanac.io/integrations): Slack notifications; embed Figma files, Loom videos, and GitHub Issues into documents.
+- [Pricing](https://almanac.io/pricing): Plan tiers; advanced security controls (2FA, SSO/SAML, SCIM) available/roadmapped.
+
+## Docs
+
+- [Help Center](https://help.almanac.io): Product help, guides, and support.
+- [Developer docs](https://help.almanac.io/for/developers): API overview and access-request process.
+
+## Security
+
+- [Security & Trust](https://almanac.io/security): Security posture; SOC 2 and HIPAA claimed. Payment card data handled by PCI-DSS-compliant third-party processors (not stored by Almanac).
+
+## Company
+
+- [Blog](https://almanac.io/blog)
+- [Careers](https://help.almanac.io/careers)
+- [Terms of Service](https://almanac.io/terms)
+- [Privacy Policy](https://almanac.io/privacy-policy)
+- [General Catalyst portfolio](https://www.generalcatalyst.com/portfolio/almanac)
