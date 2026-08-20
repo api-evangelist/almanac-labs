@@ -36,6 +36,15 @@ tags:
 - Company
 - Enterprise
 - Documentation
+- Knowledge-Management
+- Collaboration
+- Wiki
+- Productivity
+- Workflows
+tags_raw:
+- Company
+- Enterprise
+- Documentation
 - Knowledge Management
 - Collaboration
 - Wiki
@@ -51,6 +60,10 @@ apis:
   humanURL: https://help.almanac.io/for/developers
   baseURL: https://api.almanac.io
   tags:
+  - Documentation
+  - Knowledge-Management
+  - Collaboration
+  tags_raw:
   - Documentation
   - Knowledge Management
   - Collaboration
