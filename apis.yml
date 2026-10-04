@@ -47,7 +47,7 @@ tags:
 - Company
 - Enterprise
 - Documentation
-- Knowledge-Management
+- Knowledge Management
 - Collaboration
 - Wiki
 - Productivity
@@ -61,6 +61,7 @@ tags_raw:
 - Wiki
 - Productivity
 - Workflow
+- Knowledge-Management
 apis:
 - name: Almanac API
   description: >-
@@ -72,12 +73,13 @@ apis:
   baseURL: https://api.almanac.io
   tags:
   - Documentation
-  - Knowledge-Management
+  - Knowledge Management
   - Collaboration
   tags_raw:
   - Documentation
   - Knowledge Management
   - Collaboration
+  - Knowledge-Management
   properties:
   - type: Documentation
     url: https://help.almanac.io/for/developers
